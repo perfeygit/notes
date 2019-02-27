@@ -12,7 +12,7 @@ def toc(filename,output):
                 with open(output,'a',encoding='utf-8') as f:
                     n,title = len(line.strip().split()[0]),line.strip().split()[1]
                     print(n,title)
-                    f.write('{}[{}]({})\n\n'.format(n*'******',title,'https://github.com/perfeygit/notes/blob/master/爬虫.md#'+title))
+                    f.write('{}[{}]({})\n\n'.format(n*'******',title,'https://github.com/perfeygit/notes/blob/master/node.md#'+title))
                     print(title)
     with open(filename,'r',encoding='utf-8') as f1:
         with open(output,'a',encoding='utf-8') as f2:

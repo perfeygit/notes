@@ -1,152 +1,154 @@
-******[python基础](https://github.com/perfeygit/notes/blob/master/爬虫.md#python基础)
+******[python基础](https://github.com/perfeygit/notes/blob/master/node.md#python基础)
 
-************[装饰器](https://github.com/perfeygit/notes/blob/master/爬虫.md#装饰器)
+************[装饰器](https://github.com/perfeygit/notes/blob/master/node.md#装饰器)
 
-************[生成器](https://github.com/perfeygit/notes/blob/master/爬虫.md#生成器)
+************[生成器](https://github.com/perfeygit/notes/blob/master/node.md#生成器)
 
-******************[yield](https://github.com/perfeygit/notes/blob/master/爬虫.md#yield)
+******************[yield](https://github.com/perfeygit/notes/blob/master/node.md#yield)
 
-******************[asyncio](https://github.com/perfeygit/notes/blob/master/爬虫.md#asyncio)
+******************[asyncio](https://github.com/perfeygit/notes/blob/master/node.md#asyncio)
 
-******************[基于yield并发执行的协程](https://github.com/perfeygit/notes/blob/master/爬虫.md#基于yield并发执行的协程)
+******************[基于yield并发执行的协程](https://github.com/perfeygit/notes/blob/master/node.md#基于yield并发执行的协程)
 
-************[递归](https://github.com/perfeygit/notes/blob/master/爬虫.md#递归)
+************[递归](https://github.com/perfeygit/notes/blob/master/node.md#递归)
 
-******[数据库](https://github.com/perfeygit/notes/blob/master/爬虫.md#数据库)
+************[网络编程](https://github.com/perfeygit/notes/blob/master/node.md#网络编程)
 
-************[mysql](https://github.com/perfeygit/notes/blob/master/爬虫.md#mysql)
+******[数据库](https://github.com/perfeygit/notes/blob/master/node.md#数据库)
 
-************[redis](https://github.com/perfeygit/notes/blob/master/爬虫.md#redis)
+************[mysql](https://github.com/perfeygit/notes/blob/master/node.md#mysql)
 
-************[mongodb](https://github.com/perfeygit/notes/blob/master/爬虫.md#mongodb)
+************[redis](https://github.com/perfeygit/notes/blob/master/node.md#redis)
 
-************[RabbitMQ、SQLAlchemy](https://github.com/perfeygit/notes/blob/master/爬虫.md#RabbitMQ、SQLAlchemy)
+************[mongodb](https://github.com/perfeygit/notes/blob/master/node.md#mongodb)
 
-******[requests的参数](https://github.com/perfeygit/notes/blob/master/爬虫.md#requests的参数)
+************[RabbitMQ、SQLAlchemy](https://github.com/perfeygit/notes/blob/master/node.md#RabbitMQ、SQLAlchemy)
 
-******[解析库的使用](https://github.com/perfeygit/notes/blob/master/爬虫.md#解析库的使用)
+******[requests的参数](https://github.com/perfeygit/notes/blob/master/node.md#requests的参数)
 
-************[xpath](https://github.com/perfeygit/notes/blob/master/爬虫.md#xpath)
+******[解析库的使用](https://github.com/perfeygit/notes/blob/master/node.md#解析库的使用)
 
-************[Beautiful](https://github.com/perfeygit/notes/blob/master/爬虫.md#Beautiful)
+************[xpath](https://github.com/perfeygit/notes/blob/master/node.md#xpath)
 
-******************[属性选择,父子节点](https://github.com/perfeygit/notes/blob/master/爬虫.md#属性选择,父子节点)
+************[Beautiful](https://github.com/perfeygit/notes/blob/master/node.md#Beautiful)
 
-******************[方法选择器](https://github.com/perfeygit/notes/blob/master/爬虫.md#方法选择器)
+******************[属性选择,父子节点](https://github.com/perfeygit/notes/blob/master/node.md#属性选择,父子节点)
 
-******************[css选择器](https://github.com/perfeygit/notes/blob/master/爬虫.md#css选择器)
+******************[方法选择器](https://github.com/perfeygit/notes/blob/master/node.md#方法选择器)
 
-************[pyquery](https://github.com/perfeygit/notes/blob/master/爬虫.md#pyquery)
+******************[css选择器](https://github.com/perfeygit/notes/blob/master/node.md#css选择器)
 
-******************[初始化](https://github.com/perfeygit/notes/blob/master/爬虫.md#初始化)
+************[pyquery](https://github.com/perfeygit/notes/blob/master/node.md#pyquery)
 
-******************[基本css选择器](https://github.com/perfeygit/notes/blob/master/爬虫.md#基本css选择器)
+******************[初始化](https://github.com/perfeygit/notes/blob/master/node.md#初始化)
 
-******************[查找节点](https://github.com/perfeygit/notes/blob/master/爬虫.md#查找节点)
+******************[基本css选择器](https://github.com/perfeygit/notes/blob/master/node.md#基本css选择器)
 
-******************[获取信息](https://github.com/perfeygit/notes/blob/master/爬虫.md#获取信息)
+******************[查找节点](https://github.com/perfeygit/notes/blob/master/node.md#查找节点)
 
-******************[节点操作](https://github.com/perfeygit/notes/blob/master/爬虫.md#节点操作)
+******************[获取信息](https://github.com/perfeygit/notes/blob/master/node.md#获取信息)
 
-******************[伪类选择器](https://github.com/perfeygit/notes/blob/master/爬虫.md#伪类选择器)
+******************[节点操作](https://github.com/perfeygit/notes/blob/master/node.md#节点操作)
 
-******[selenium的使用](https://github.com/perfeygit/notes/blob/master/爬虫.md#selenium的使用)
+******************[伪类选择器](https://github.com/perfeygit/notes/blob/master/node.md#伪类选择器)
 
-************[获取单个节点的方法](https://github.com/perfeygit/notes/blob/master/爬虫.md#获取单个节点的方法)
+******[selenium的使用](https://github.com/perfeygit/notes/blob/master/node.md#selenium的使用)
 
-******************[强调](https://github.com/perfeygit/notes/blob/master/爬虫.md#强调)
+************[获取单个节点的方法](https://github.com/perfeygit/notes/blob/master/node.md#获取单个节点的方法)
 
-************[节点交互](https://github.com/perfeygit/notes/blob/master/爬虫.md#节点交互)
+******************[强调](https://github.com/perfeygit/notes/blob/master/node.md#强调)
 
-******************[动作链](https://github.com/perfeygit/notes/blob/master/爬虫.md#动作链)
+************[节点交互](https://github.com/perfeygit/notes/blob/master/node.md#节点交互)
 
-******************[自己写js](https://github.com/perfeygit/notes/blob/master/爬虫.md#自己写js)
+******************[动作链](https://github.com/perfeygit/notes/blob/master/node.md#动作链)
 
-******************[frame的切换](https://github.com/perfeygit/notes/blob/master/爬虫.md#frame的切换)
+******************[自己写js](https://github.com/perfeygit/notes/blob/master/node.md#自己写js)
 
-******************[模拟浏览器的前进后退](https://github.com/perfeygit/notes/blob/master/爬虫.md#模拟浏览器的前进后退)
+******************[frame的切换](https://github.com/perfeygit/notes/blob/master/node.md#frame的切换)
 
-******************[cookies](https://github.com/perfeygit/notes/blob/master/爬虫.md#cookies)
+******************[模拟浏览器的前进后退](https://github.com/perfeygit/notes/blob/master/node.md#模拟浏览器的前进后退)
 
-******************[选项卡管理](https://github.com/perfeygit/notes/blob/master/爬虫.md#选项卡管理)
+******************[cookies](https://github.com/perfeygit/notes/blob/master/node.md#cookies)
 
-******************[异常处理](https://github.com/perfeygit/notes/blob/master/爬虫.md#异常处理)
+******************[选项卡管理](https://github.com/perfeygit/notes/blob/master/node.md#选项卡管理)
 
-******[js](https://github.com/perfeygit/notes/blob/master/爬虫.md#js)
+******************[异常处理](https://github.com/perfeygit/notes/blob/master/node.md#异常处理)
 
-************[js中函数的创建](https://github.com/perfeygit/notes/blob/master/爬虫.md#js中函数的创建)
+******[js](https://github.com/perfeygit/notes/blob/master/node.md#js)
 
-************[js中的DOM操作](https://github.com/perfeygit/notes/blob/master/爬虫.md#js中的DOM操作)
+************[js中函数的创建](https://github.com/perfeygit/notes/blob/master/node.md#js中函数的创建)
 
-************[js创建删除追加子元素](https://github.com/perfeygit/notes/blob/master/爬虫.md#js创建删除追加子元素)
+************[js中的DOM操作](https://github.com/perfeygit/notes/blob/master/node.md#js中的DOM操作)
 
-************[js实现选项卡](https://github.com/perfeygit/notes/blob/master/爬虫.md#js实现选项卡)
+************[js创建删除追加子元素](https://github.com/perfeygit/notes/blob/master/node.md#js创建删除追加子元素)
 
-************[js中的面向对象,创建对象](https://github.com/perfeygit/notes/blob/master/爬虫.md#js中的面向对象,创建对象)
+************[js实现选项卡](https://github.com/perfeygit/notes/blob/master/node.md#js实现选项卡)
 
-************[定时器](https://github.com/perfeygit/notes/blob/master/爬虫.md#定时器)
+************[js中的面向对象,创建对象](https://github.com/perfeygit/notes/blob/master/node.md#js中的面向对象,创建对象)
 
-************[BOM](https://github.com/perfeygit/notes/blob/master/爬虫.md#BOM)
+************[定时器](https://github.com/perfeygit/notes/blob/master/node.md#定时器)
 
-************[锚点值跳转](https://github.com/perfeygit/notes/blob/master/爬虫.md#锚点值跳转)
+************[BOM](https://github.com/perfeygit/notes/blob/master/node.md#BOM)
 
-************[标签距离](https://github.com/perfeygit/notes/blob/master/爬虫.md#标签距离)
+************[锚点值跳转](https://github.com/perfeygit/notes/blob/master/node.md#锚点值跳转)
 
-************[原生js添加删除类](https://github.com/perfeygit/notes/blob/master/爬虫.md#原生js添加删除类)
+************[标签距离](https://github.com/perfeygit/notes/blob/master/node.md#标签距离)
 
-******[并发处理](https://github.com/perfeygit/notes/blob/master/爬虫.md#并发处理)
+************[原生js添加删除类](https://github.com/perfeygit/notes/blob/master/node.md#原生js添加删除类)
 
-************[同步调用不使用并发](https://github.com/perfeygit/notes/blob/master/爬虫.md#同步调用不使用并发)
+******[并发处理](https://github.com/perfeygit/notes/blob/master/node.md#并发处理)
 
-************[使用多进程(线程)](https://github.com/perfeygit/notes/blob/master/爬虫.md#使用多进程(线程))
+************[同步调用不使用并发](https://github.com/perfeygit/notes/blob/master/node.md#同步调用不使用并发)
 
-************[使用进程池(线程池)](https://github.com/perfeygit/notes/blob/master/爬虫.md#使用进程池(线程池))
+************[使用多进程(线程)](https://github.com/perfeygit/notes/blob/master/node.md#使用多进程(线程))
 
-******************[py3](https://github.com/perfeygit/notes/blob/master/爬虫.md#py3)
+************[使用进程池(线程池)](https://github.com/perfeygit/notes/blob/master/node.md#使用进程池(线程池))
 
-******************[py2](https://github.com/perfeygit/notes/blob/master/爬虫.md#py2)
+******************[py3](https://github.com/perfeygit/notes/blob/master/node.md#py3)
 
-************************[eg1:同步请求](https://github.com/perfeygit/notes/blob/master/爬虫.md#eg1:同步请求)
+******************[py2](https://github.com/perfeygit/notes/blob/master/node.md#py2)
 
-************************[eg2:异步提交,不获取返回值](https://github.com/perfeygit/notes/blob/master/爬虫.md#eg2:异步提交,不获取返回值)
+************************[eg1:同步请求](https://github.com/perfeygit/notes/blob/master/node.md#eg1:同步请求)
 
-************************[eg3:异步提交,获取返回值,等待所有任务都执行完毕之后再统一获取结果](https://github.com/perfeygit/notes/blob/master/爬虫.md#eg3:异步提交,获取返回值,等待所有任务都执行完毕之后再统一获取结果)
+************************[eg2:异步提交,不获取返回值](https://github.com/perfeygit/notes/blob/master/node.md#eg2:异步提交,不获取返回值)
 
-************************[eg4:异步提交,获取返回值,一个任务执行完毕之后就可以获取到一个结果(顺序是按照提交任务的顺序)](https://github.com/perfeygit/notes/blob/master/爬虫.md#eg4:异步提交,获取返回值,一个任务执行完毕之后就可以获取到一个结果(顺序是按照提交任务的顺序))
+************************[eg3:异步提交,获取返回值,等待所有任务都执行完毕之后再统一获取结果](https://github.com/perfeygit/notes/blob/master/node.md#eg3:异步提交,获取返回值,等待所有任务都执行完毕之后再统一获取结果)
 
-************************[回调函数](https://github.com/perfeygit/notes/blob/master/爬虫.md#回调函数)
+************************[eg4:异步提交,获取返回值,一个任务执行完毕之后就可以获取到一个结果(顺序是按照提交任务的顺序)](https://github.com/perfeygit/notes/blob/master/node.md#eg4:异步提交,获取返回值,一个任务执行完毕之后就可以获取到一个结果(顺序是按照提交任务的顺序))
 
-******************[协程](https://github.com/perfeygit/notes/blob/master/爬虫.md#协程)
+************************[回调函数](https://github.com/perfeygit/notes/blob/master/node.md#回调函数)
 
-******************[同时使用进程、线程、协程](https://github.com/perfeygit/notes/blob/master/爬虫.md#同时使用进程、线程、协程)
+******************[协程](https://github.com/perfeygit/notes/blob/master/node.md#协程)
 
-************[使用asyncio模块，可以帮我们检测IO（只能是网络IO），实现应用程序级别的切换](https://github.com/perfeygit/notes/blob/master/爬虫.md#使用asyncio模块，可以帮我们检测IO（只能是网络IO），实现应用程序级别的切换)
+******************[同时使用进程、线程、协程](https://github.com/perfeygit/notes/blob/master/node.md#同时使用进程、线程、协程)
 
-************[asyncio模块只能发tcp级别的请求，不能发http协议，因此，在我们需要发送http请求的时候，需要我们自定义http报头](https://github.com/perfeygit/notes/blob/master/爬虫.md#asyncio模块只能发tcp级别的请求，不能发http协议，因此，在我们需要发送http请求的时候，需要我们自定义http报头)
+************[使用asyncio模块，可以帮我们检测IO（只能是网络IO），实现应用程序级别的切换](https://github.com/perfeygit/notes/blob/master/node.md#使用asyncio模块，可以帮我们检测IO（只能是网络IO），实现应用程序级别的切换)
 
-************[使用aiohttp模块，专门帮我们封装http报头，然后我们还需要用asyncio检测IO实现切换](https://github.com/perfeygit/notes/blob/master/爬虫.md#使用aiohttp模块，专门帮我们封装http报头，然后我们还需要用asyncio检测IO实现切换)
+************[asyncio模块只能发tcp级别的请求，不能发http协议，因此，在我们需要发送http请求的时候，需要我们自定义http报头](https://github.com/perfeygit/notes/blob/master/node.md#asyncio模块只能发tcp级别的请求，不能发http协议，因此，在我们需要发送http请求的时候，需要我们自定义http报头)
 
-************[在上面的基础上将requests.get函数传给asyncio，就能够被检测了](https://github.com/perfeygit/notes/blob/master/爬虫.md#在上面的基础上将requests.get函数传给asyncio，就能够被检测了)
+************[使用aiohttp模块，专门帮我们封装http报头，然后我们还需要用asyncio检测IO实现切换](https://github.com/perfeygit/notes/blob/master/node.md#使用aiohttp模块，专门帮我们封装http报头，然后我们还需要用asyncio检测IO实现切换)
 
-************[gevent+requests使用协程](https://github.com/perfeygit/notes/blob/master/爬虫.md#gevent+requests使用协程)
+************[在上面的基础上将requests.get函数传给asyncio，就能够被检测了](https://github.com/perfeygit/notes/blob/master/node.md#在上面的基础上将requests.get函数传给asyncio，就能够被检测了)
 
-************[使用封装了gevent+requests模块的grequests模块](https://github.com/perfeygit/notes/blob/master/爬虫.md#使用封装了gevent+requests模块的grequests模块)
+************[gevent+requests使用协程](https://github.com/perfeygit/notes/blob/master/node.md#gevent+requests使用协程)
 
-************[twisted：是一个网络框架，其中一个功能是发送异步请求，检测IO并自动切换](https://github.com/perfeygit/notes/blob/master/爬虫.md#twisted：是一个网络框架，其中一个功能是发送异步请求，检测IO并自动切换)
+************[使用封装了gevent+requests模块的grequests模块](https://github.com/perfeygit/notes/blob/master/node.md#使用封装了gevent+requests模块的grequests模块)
 
-************[tornado](https://github.com/perfeygit/notes/blob/master/爬虫.md#tornado)
+************[twisted：是一个网络框架，其中一个功能是发送异步请求，检测IO并自动切换](https://github.com/perfeygit/notes/blob/master/node.md#twisted：是一个网络框架，其中一个功能是发送异步请求，检测IO并自动切换)
 
-******[celery](https://github.com/perfeygit/notes/blob/master/爬虫.md#celery)
+************[tornado](https://github.com/perfeygit/notes/blob/master/node.md#tornado)
 
-******[linux](https://github.com/perfeygit/notes/blob/master/爬虫.md#linux)
+******[celery](https://github.com/perfeygit/notes/blob/master/node.md#celery)
 
-************[常用命令](https://github.com/perfeygit/notes/blob/master/爬虫.md#常用命令)
+******[linux](https://github.com/perfeygit/notes/blob/master/node.md#linux)
 
-******[数据结构](https://github.com/perfeygit/notes/blob/master/爬虫.md#数据结构)
+************[常用命令](https://github.com/perfeygit/notes/blob/master/node.md#常用命令)
 
-******[算法](https://github.com/perfeygit/notes/blob/master/爬虫.md#算法)
+******[数据结构](https://github.com/perfeygit/notes/blob/master/node.md#数据结构)
 
-******[爬虫技巧](https://github.com/perfeygit/notes/blob/master/爬虫.md#爬虫技巧)
+******[算法](https://github.com/perfeygit/notes/blob/master/node.md#算法)
+
+******[爬虫技巧](https://github.com/perfeygit/notes/blob/master/node.md#爬虫技巧)
 
 [TOC]
 
@@ -372,7 +374,11 @@ it = iter([1, 2, 3, 4, 5])   # iter将可迭代对象变为迭代器,也可以�
 
 ## 递归
 
+## 网络编程
 
+http请求头和请求体
+
+请求头有哪些
 
 # 数据库
 
